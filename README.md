@@ -14,4 +14,4 @@ Create and style a form as shown in the mockup below.
 
 - The placeholder should be bold on field selection
 
-- Use **Font-Awesome** icons for the input fields
+- Use **Font-Awesome** for the icons
